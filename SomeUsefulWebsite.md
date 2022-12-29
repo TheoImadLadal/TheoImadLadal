@@ -1,10 +1,19 @@
 #Some useful Websites
--  🖼️ Pictures from B&W to Colors => https://palette.fm/
-- :camera_flash: Erase people or objects from a picture => https://www.hama.app/
+####Picture
+-  🖼️ Pictures from B&W to Colors => palette.fm
+- :camera_flash: Erase people or objects from a picture => https://www.hama.app
+- :robot: Generating pictures from an AI => midjourney.com
+
+####Computer
 - :computer: Toys for Devs => devtoys.com 
 - 🖥️ Tool to split screens => PowerToys.com
-- 👨‍🎓 Creating userflow => https://wireflow.co/ 
-- 👨‍💻 Desing patterns => https://refactoring.guru/design-patterns/adapter
+- 👨‍🎓 Creating userflow => wireflow.co
+- :triangular_ruler: Croping, editing and compressing pictures, videos, PDF files and much more => tinywow.com
+- 👨‍💻 Desing patterns => refactoring.guru/design-patterns
+
+####Articles 
+- :pencil: Bypassing any paywwall => 12ft.io
+
 
 
 
