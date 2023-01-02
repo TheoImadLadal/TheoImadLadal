@@ -9,10 +9,10 @@
 - 🖥️ Tool to split screens => PowerToys.com
 - 👨‍🎓 Creating userflow => wireflow.co
 - :triangular_ruler: Croping, editing and compressing pictures, videos, PDF files and much more => tinywow.com
-- 👨‍💻 Desing patterns => refactoring.guru/design-patterns
+- 👨‍💻 Desing patterns => https://refactoring.guru/design-patterns
 
 ####Articles 
-- :pencil: Bypassing any paywwall => 12ft.io
+- :pencil: Bypassing any paywall => 12ft.io
 
 
 
