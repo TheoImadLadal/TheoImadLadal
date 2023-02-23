@@ -13,6 +13,7 @@
 
 ####Articles 
 - :pencil: Bypassing any paywall => 12ft.io
+- 🖨 Clean code summary => https://github.com/JuanCrg90/Clean-Code-Notes
 
 
 
